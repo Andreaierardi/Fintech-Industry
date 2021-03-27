@@ -1,1 +1,1 @@
-# Fintech-Industry
+# Fintech Industry Exam Project
